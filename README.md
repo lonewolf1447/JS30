@@ -1,6 +1,5 @@
 # JS30
-My take on Web Bos' JavaScript30
-# 30 day vanilla JavaScript challenge
+My take on Web Bos' JavaScript30 challenge
 
 1. JavaScript Drum Kit  
 2. CSS + JS Clock  
